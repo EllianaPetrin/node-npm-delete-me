@@ -1,0 +1,1 @@
+console.log("Hava a good day!");
